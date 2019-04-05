@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+ /* background-color: rgb(199, 227, 247);*/
+  background-image: url("Background.jpg");
+  background-color: #cccccc;
+  background-size: cover;
+  font-size: 14pt;
+  min-width: 1366px;
+  min-height: 736px;
+}
+
+.Applogo {
+ padding: 20px 20px 20px 20px ;
+}
+
+.App-header {
+  min-height: 2vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 16pt;
+  color: black;
+  background-color:silver;
+  padding: 5px;
+}
+
+.App-footer {
+  display: flex;
+  justify-content: center;
+  font-size: 12pt;
+  padding: 5px;
+  color: black;
+  background-color: silver;
+  }
+
+.Page1-Content{
+  text-align: justify;
+  font-size: 14pt
+}
+
+.centre{
+  text-align: center;
+}
+
+.button{
+  background-color: lavender;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 250px;
+}
+
+select {
+  margin-bottom: 15px;
+  margin-top: 5px;
+  width: 250px;
+  padding: 5px 5px 5px 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  height: 35px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url("drop.png") 96% / 6% no-repeat #eee;
+}
