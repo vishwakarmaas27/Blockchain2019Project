@@ -9,7 +9,7 @@ Languages Used for Development of this Project:
 This project demonstrates the basic working of the blockchain.<br/>
 It lets you create different blockchains for different products and update the status of each of the product (Current Location and Product's Status of Shipment) and everything gets displayed on the Public Ledger.
 With every update, blocks are created and they are mined according to the difficulty level set in the code, after the block is mined, it gets added to the chain.
-It also checks for the valididty of the chain with each block update.
+It also checks for the validity of the chain with each block update.
 
 
 ### You can view a working version of this project at https://blockchain-2019.firebaseapp.com 
